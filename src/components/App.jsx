@@ -38,7 +38,7 @@ const App = () =>{
   }
 
   return (
-    <div className="div">
+    <div>
       <Section title="Please leave feedback">
         <FeedbackOptions
           options={Object.keys({ good, neutral, bad })}

@@ -59,9 +59,10 @@ code {
   color: #2504e0
 }
 
-.div{
+.section{
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 
